@@ -28,6 +28,16 @@ const abdullah = {
     webDeployment: ["Flask", "Gradio", "MLflow"],
     tools: ["Git", "GitHub", "Linux (CLI)", "VS Code", "Google Colab"]
   },
+  coreConcepts: [
+    "Machine Learning",
+    "Deep Learning",
+    "Artificial Intelligence",
+    "Data Structures & Algorithms",
+    "Object-Oriented Programming",
+    "Analysis of Algorithms",
+    "Relational Database Design & Normalization",
+    "Problem Solving"
+  ],
   launchedProjects: [
     "Omnivision Classifier — 30-class image classifier w/ transfer learning",
     "Library Management System — Full-stack Oracle + Flask app",
