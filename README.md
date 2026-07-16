@@ -72,7 +72,7 @@ Compared four transfer-learning architectures to classify images into 30 categor
 | Experiment Tracking | MLflow |
 | Deployment | Gradio |
 
-[![Code](https://img.shields.io/badge/Code-View%20Repo-7dd3fc?style=for-the-badge&logo=github)](https://github.com/chabdullahtariq0566-design/Omnivision-Classifier)
+[![Code](https://img.shields.io/badge/Code-View%20Repo-7dd3fc?style=for-the-badge&logo=github)](https://github.com/chabdullahtariq0566-design/Omnivision_Classifier)
 
 ---
 
